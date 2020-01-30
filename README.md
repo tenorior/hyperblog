@@ -9,5 +9,7 @@ En este curso veremos de todo.
 * El flujo de trabajo en gitHub
 * Agregado 1
 * Agregado 2
+* agregado 3
+* agregado 4
 
 y como un amable recordatorio : **este readme.md es un chiste**.
