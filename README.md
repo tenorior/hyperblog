@@ -7,5 +7,7 @@ Un blog para revisar las primeras interacciones con git
 En este curso veremos de todo.
 * Todos los comandos de Git
 * El flujo de trabajo en gitHub
+* Agregado 1
+* Agregado 2
 
 y como un amable recordatorio : **este readme.md es un chiste**.
