@@ -11,10 +11,21 @@ body{
     padding: 1em;
     text-align: left;
     border: 1px solid #dddddd;
+    margin:  0 auto;
 }
 
 #contaniner h1{
 
     font-size: 20px;
+
+}
+
+#cabecera{
+    background: #888888;
+    box-shadow: 0px 5px 30px 0px rgba(0,0,0 0.75);
+    color: white;
+    font-weight: bold;
+    margin: 0;
+    padding: 0 5em;
 
 }
